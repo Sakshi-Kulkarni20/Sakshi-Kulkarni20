@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;I'm+Sakshi+Kulkarni!;Cybersecurity+Enthusiast+%F0%9F%94%90;Ethical+Hacker+%F0%9F%92%BB" />
 </h1>
 
-<h3 align="center">Computer Science Engineering Student | Cybersecurity & Ethical Hacking | ML Enthusiast</h3>
+<h3 align="center">Computer Science Engineering Student | passionate sbout python , Generative AI, Cybersecurity & AIML Enthusiast</h3>
 
 <br/>
 
